@@ -15,7 +15,7 @@ Category 02 : Heuristic <br>
   4- jonson method .<br> 
  <br>
  <br> 
-Category 03 : Heuristic <br> 
+Category 03 : MetaHeuristic <br> 
   1- Genetic algorithm method .<br> 
   2- Taboo search method .<br> 
   3- Simulated annealing method .<br> 
